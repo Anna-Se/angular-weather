@@ -1,0 +1,13 @@
+.form-search {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin: auto 10px;
+    padding: 10px;
+    background-color: aquamarine;
+    .form-search__input {
+        width: 40%;
+        height: 30px;
+        margin: auto 10px;
+    }
+}
